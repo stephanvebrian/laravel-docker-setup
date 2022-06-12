@@ -2,3 +2,5 @@
 
 /dockerfiles/mysql/*
 !/dockerfiles/mysql/.gitkeep
+/dockerfiles/postgres/*
+!/dockerfiles/postgres/.gitkeep
